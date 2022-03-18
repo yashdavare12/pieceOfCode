@@ -122,7 +122,7 @@ T=int(input("Enter the Time : "))
 SI=(P*R*T)/100
 print("The Simple Interest is : ",SI)
 
-# 12. Calculate temperature in Celsius and convert it into Fahrenheit 
+# 12. Calculate temperature in Celsius and convert it into Fahrenheit.
 
 celsius=eval(input("Enter degrees in Celsius: "))
 print("Celsius:",celsius)
